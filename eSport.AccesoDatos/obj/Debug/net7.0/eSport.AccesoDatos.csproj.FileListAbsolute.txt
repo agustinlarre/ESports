@@ -1,0 +1,51 @@
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.deps.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfo.cs
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CopyComplete
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\refint\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\ref\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.runtimeconfig.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.genruntimeconfig.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.deps.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.runtimeconfig.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfo.cs
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CopyComplete
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\refint\eSport.AccesoDatos.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.genruntimeconfig.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSport.AccesoDatos\obj\Debug\net7.0\ref\eSport.AccesoDatos.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.deps.json
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.runtimeconfig.json
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSport.AccesoDatos.pdb
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\bin\Debug\net7.0\eSports.pdb
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.AssemblyReference.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfoInputs.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.AssemblyInfo.cs
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.csproj.CopyComplete
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\refint\eSport.AccesoDatos.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.pdb
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\eSport.AccesoDatos.genruntimeconfig.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSport.AccesoDatos\obj\Debug\net7.0\ref\eSport.AccesoDatos.dll

@@ -1,0 +1,36 @@
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\bin\Debug\net7.0\eSports.deps.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\bin\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\bin\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.csproj.AssemblyReference.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfoInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfo.cs
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\refint\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports\eSports\obj\Debug\net7.0\ref\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\bin\Debug\net7.0\eSports.deps.json
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\bin\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\bin\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.csproj.AssemblyReference.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfoInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfo.cs
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\refint\eSports.dll
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\eSports.pdb
+C:\Users\lucas.le\Desktop\P3\Library\eSports ConEFInstalado\eSports\eSports\obj\Debug\net7.0\ref\eSports.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\bin\Debug\net7.0\eSports.deps.json
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\bin\Debug\net7.0\eSports.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\bin\Debug\net7.0\eSports.pdb
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.csproj.AssemblyReference.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfoInputs.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.AssemblyInfo.cs
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.csproj.CoreCompileInputs.cache
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\refint\eSports.dll
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\eSports.pdb
+D:\ORT\ORT - Analista TI\Tercer semestre\Programacion 3\Practico\EjercicioAnnotations\eSports\eSports\obj\Debug\net7.0\ref\eSports.dll
